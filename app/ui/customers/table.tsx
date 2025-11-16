@@ -3,7 +3,6 @@ import { lusitana } from '@/app/ui/fonts';
 import Search from '@/app/ui/search';
 import { Suspense } from 'react';
 import {
-  CustomersTableType,
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
 
